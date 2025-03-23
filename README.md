@@ -23,4 +23,6 @@ Resistor de 220 ohms (para o LED)
 
 Objetivos
 O objetivo do projeto é criar uma solução de alarme simples e acessível, utilizando o Raspberry Pi Pico para monitoramento de movimento e alertas sonoros e visuais.
-Desenvolvido por: (Antonio Pablo) [https://github.com/Antonio-Pablo]
+Feita por:
+<br/>
+[Antonio Pablo Isaías Gonçalves da Silva.](https://github.com/Antonio-Pablo)
